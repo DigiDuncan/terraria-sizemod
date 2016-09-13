@@ -1,9 +1,9 @@
 author = P
-version = 0.1
+version = 0.01
 displayName = Size mod
 homepage = 
-hideCode = false
-hideResources = false
-includeSource = true
+hideCode = true
+hideResources = true
+includeSource = false
 buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
 includePDB = true
