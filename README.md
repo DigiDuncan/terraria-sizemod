@@ -1,6 +1,8 @@
 # terraria-sizemod
 A size mod for Terraria 1.3. RP not guaranteed.
 
+Requires tModLoader. Get it from: http://forums.terraria.org/index.php?threads/1-3-tmodloader-a-modding-api.23726/
+
 Ver 0.0.1: Bare minimum stuff implemented.
 
 Todo:
