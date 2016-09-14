@@ -1,7 +1,7 @@
 # terraria-sizemod
 A size mod for Terraria 1.3. RP not guaranteed.
 
-Ver 0.01: Bare minimum stuff implemented.
+Ver 0.0.1: Bare minimum stuff implemented.
 
 Todo:
 
